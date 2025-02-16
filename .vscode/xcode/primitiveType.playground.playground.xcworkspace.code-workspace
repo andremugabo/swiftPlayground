@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "name": "PLAYGROUNDFILES/primitiveType.playground/playground.xcworkspace",
+            "path": "../.."
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            ".vscode/xcode/fifo": true,
+            ".vscode/xcode/bundles": true
+        },
+        "search.exclude": {
+            ".vscode/xcode/fifo": true,
+            ".vscode/xcode/bundles": true
+        },
+        "swift.autoGenerateLaunchConfigurations": false,
+        "swift.disableAutoResolve": true,
+        "swift.sourcekit-lsp.disable": true,
+        "swift.disableSwiftPackageManagerIntegration": true,
+        "swift.searchSubfoldersForPackages": false
+    },
+    "extensions": {
+        "unwantedRecommendations": [
+            "sswg.swift-lang"
+        ]
+    }
+}
